@@ -7,6 +7,10 @@ This project includes a collection of OSX Service workflows.
 
 To use them copy them into ~/Library/Services.
 
+~~~
+cp -av * ~/Library/Services
+~~~
+
 ## Services
 
 ### IA Writer 2 Marked - ia-2-marked-service
